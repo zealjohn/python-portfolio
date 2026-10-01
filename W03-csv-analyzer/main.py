@@ -8,4 +8,4 @@ for s in students:
   english = int(s["english"])
   math = int(s["math"])
   average = (chinese + english + math) / 3
-  print(s["name"], average)
+  print(s["name"], average) 
